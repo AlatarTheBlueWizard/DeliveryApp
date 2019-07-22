@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295258625261",
+    "firebase_url": "https://food-order-delivery-app.firebaseio.com",
+    "project_id": "food-order-delivery-app",
+    "storage_bucket": "food-order-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295258625261:android:d8edabbdbaa92305",
+        "android_client_info": {
+          "package_name": "com.example.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295258625261-25gbnjqeholv4qq3ofiikdcieocqhm6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deliveryapp",
+            "certificate_hash": "0084071e32772660aebc7fa937d1203a919754fe"
+          }
+        },
+        {
+          "client_id": "295258625261-0fb1qpfqag246a7nhiu0gbv9vor6asku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtYKmwZSy1CMiNdclvYTX10xxmk4NbL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295258625261-0fb1qpfqag246a7nhiu0gbv9vor6asku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
